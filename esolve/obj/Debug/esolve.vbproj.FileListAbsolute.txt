@@ -1,0 +1,12 @@
+C:\Users\admin\OneDrive\Desktop\esolve\esolve\esolve\bin\Debug\esolve.exe.config
+C:\Users\admin\OneDrive\Desktop\esolve\esolve\esolve\bin\Debug\esolve.exe
+C:\Users\admin\OneDrive\Desktop\esolve\esolve\esolve\bin\Debug\esolve.pdb
+C:\Users\admin\OneDrive\Desktop\esolve\esolve\esolve\bin\Debug\esolve.xml
+C:\Users\admin\OneDrive\Desktop\esolve\esolve\esolve\obj\Debug\esolve.vbprojAssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\esolve\esolve\esolve\obj\Debug\esolve.Form1.resources
+C:\Users\admin\OneDrive\Desktop\esolve\esolve\esolve\obj\Debug\esolve.Resources.resources
+C:\Users\admin\OneDrive\Desktop\esolve\esolve\esolve\obj\Debug\esolve.vbproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Desktop\esolve\esolve\esolve\obj\Debug\esolve.exe
+C:\Users\admin\OneDrive\Desktop\esolve\esolve\esolve\obj\Debug\esolve.xml
+C:\Users\admin\OneDrive\Desktop\esolve\esolve\esolve\obj\Debug\esolve.pdb
+C:\Users\admin\OneDrive\Desktop\esolve\esolve\esolve\obj\Debug\esolve.login.resources
